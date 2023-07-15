@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quic/static/css/main.92b38b7a.css",
+    "main.js": "/quic/static/js/main.148caf4c.js",
+    "index.html": "/quic/index.html",
+    "main.92b38b7a.css.map": "/quic/static/css/main.92b38b7a.css.map",
+    "main.148caf4c.js.map": "/quic/static/js/main.148caf4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b38b7a.css",
+    "static/js/main.148caf4c.js"
+  ]
+}
